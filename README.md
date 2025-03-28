@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo 👋</h1>
 
 <p align="center">
-  Sou o Marco, estudante de Análise e Desenvolvimento de Sistema, apaixonado por tecnologia e em especial por Front End. <br>
+  Sou o Marco, estudante de desenvolvimento front-end e apaixonado por tecnologia. <br>
   Atualmente focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais. <br>
   Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortalecer minhas habilidades.
 </p>
@@ -37,6 +37,21 @@
 
 ---
 
+<h2 align="center">📚 Atualmente estudando</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FlutterFlow-1B1F23?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow" />
+  <img src="https://img.shields.io/badge/NoCode-9013FE?style=for-the-badge&logo=codefactor&logoColor=white" alt="No Code" />
+  <img src="https://img.shields.io/badge/LowCode-FF6F00?style=for-the-badge&logo=openaccess&logoColor=white" alt="Low Code" />
+</p>
+
+<p align="center">
+  Estou explorando ferramentas de desenvolvimento visual e produtivo como o FlutterFlow, além de entender melhor o ecossistema de No Code e Low Code. 
+  Meu objetivo é acelerar a entrega de projetos e ter domínio tanto da base de código quanto das plataformas modernas de criação.
+</p>
+
+---
+
 <h2 align="center">📈 Atividade no GitHub</h2>
 
 <p align="center">
@@ -52,5 +67,6 @@
 <p align="center">
   <i>"Grandes jornadas começam com um passo. E o seu já começou." 🚀</i>
 </p>
+
 
 
