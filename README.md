@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo 👋</h1>
 
 <p align="center">
-  Sou o Marco, estudante de desenvolvimento front-end e apaixonado por tecnologia. <br>
+  Sou o Marco, estudante de Análise e Desenvolvimento de Sistema, apaixonado por tecnologia e em especial por Front End. <br>
   Atualmente focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais. <br>
   Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortalecer minhas habilidades.
 </p>
