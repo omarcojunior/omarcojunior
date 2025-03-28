@@ -6,9 +6,11 @@
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia.<br>
-  Estou focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais.<br>
+  Estou focado em aprender HTML, CSS, JavaScript e outras linguagens para criar interfaces modernas e funcionais, fazendo o Front-End da aplicação se tornar uma experiência única.<br>
+  Possuo experiência prévia como Analista de Suporte N1/N2 e familiaridade com ferramentas de QA, como o Selenium, o que amplia minha visão sobre qualidade e usabilidade em aplicações.<br>
   Atualmente explorando também o universo No Code/Low Code com FlutterFlow.
 </p>
+
 
 <p align="center">
   <a href="https://translate.google.com/translate?hl=en&sl=pt&u=https://github.com/omarcojunior">
