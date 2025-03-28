@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF6F&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Sinta-se+à+vontade+para+explorar+meus+projetos!" alt="Boas-vindas animadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF6F&center=true&vCenter=true&width=600&lines=Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Sinta-se+à+vontade+para+explorar+meus+projetos!" alt="Boas-vindas animadas" />
 </p>
 
 <h1 align="center">Marco Junior</h1>
