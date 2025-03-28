@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Fique+à+vontade+para+explorar+meus+projetos!" alt="Boas-vindas animadas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF6F&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Sinta-se+à+vontade+para+explorar+meus+projetos!" alt="Boas-vindas animadas" />
 </p>
 
-<h1 align="center">Marco Silva Junior</h1>
+<h1 align="center">Marco Junior</h1>
 
 <p align="center">
-  Estudante de desenvolvimento front-end e apaixonado por tecnologia.<br>
+  Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia.<br>
   Estou focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais.<br>
   Atualmente explorando também o universo No Code/Low Code com FlutterFlow.
 </p>
@@ -75,7 +75,7 @@
 
 <p align="center">
   <strong>Hotelfy - Soluções Inteligentes para sua hospedagem</strong><br>
-  Sistema feito com foco em facilitar cobranças, reservas e automações para hotéis e pousadas.
+  Site Web feito para trazer soluções para Hotelaria em um só lugar.
 </p>
 
 <p align="center">
