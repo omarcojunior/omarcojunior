@@ -6,7 +6,7 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 ---
 
-### 🌐 Minhas redes
+### 🌐 Minhas redes 🌐
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-silva-junior/">
@@ -25,7 +25,7 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 ---
 
-### 🚀 Minhas Skills
+### 🚀 Minhas Skills 🚀
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -35,8 +35,7 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 ---
 
-### 📊 GitHub Stats
-### 📈 Atividade no GitHub
+### 📊 Atividade no GitHub 📈 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarcojunior&theme=2077" alt="Detalhes do perfil" />
