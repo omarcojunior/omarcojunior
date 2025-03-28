@@ -11,6 +11,18 @@
   Atualmente explorando também o universo No Code/Low Code com FlutterFlow.
 </p>
 
+---
+
+<h2 align="center">💼 Experiências anteriores</h2>
+
+<p align="center">
+  Atuei como Analista de Suporte N1/N2, onde desenvolvi uma forte habilidade em resolver problemas técnicos e lidar diretamente com usuários finais.<br>
+  Durante esse período, utilizei ferramentas como <strong>Zoho Desk</strong> e <strong>Intercom</strong> para gestão de atendimento e comunicação com clientes.<br>
+  Possuo amplo conhecimento em plataformas de <strong>e-commerce</strong> e <strong>ERP</strong>, o que me proporciona uma visão estratégica de negócios e processos.<br>
+  Por iniciativa própria, estudei a ferramenta <strong>Selenium</strong>, despertando meu interesse pela área de <strong>Qualidade de Software</strong> e testes automatizados.<br>
+  Além disso, possuo conhecimento em <strong>BDD (Behavior Driven Development)</strong>, o que reforça minha atenção à experiência do usuário e à qualidade desde o início do desenvolvimento.
+</p>
+
 
 <p align="center">
   <a href="https://translate.google.com/translate?hl=en&sl=pt&u=https://github.com/omarcojunior">
