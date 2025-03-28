@@ -39,7 +39,7 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarcojunior&show_icons=true&theme=radical&border_radius=10&count_private=true&hide_title=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcojunior&layout=compact&theme=radical&border_radius=10" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omarcojunior&show_icons=true&theme=tokyonight" />
 </div>
 
 ---
