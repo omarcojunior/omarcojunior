@@ -1,9 +1,19 @@
-<h1 align="center">Seja bem-vindo 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub+%F0%9F%91%8B;Fique+à+vontade+para+explorar+meus+projetos!" alt="Boas-vindas animadas" />
+</p>
+
+<h1 align="center">Marco Silva Junior</h1>
 
 <p align="center">
-  Sou o Marco, estudante de desenvolvimento front-end e apaixonado por tecnologia. <br>
-  Atualmente focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais. <br>
-  Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortalecer minhas habilidades.
+  Estudante de desenvolvimento front-end e apaixonado por tecnologia.<br>
+  Estou focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais.<br>
+  Atualmente explorando também o universo No Code/Low Code com FlutterFlow.
+</p>
+
+<p align="center">
+  <a href="https://translate.google.com/translate?hl=en&sl=pt&u=https://github.com/omarcojunior">
+    <img src="https://img.shields.io/badge/Translate%20to%20English-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Traduzir para inglês" />
+  </a>
 </p>
 
 ---
@@ -22,6 +32,16 @@
   </a>
   <a href="https://wa.me/5541988833923">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Me contrate</h2>
+
+<p align="center">
+  <a href="mailto:teuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Me%20contrate-28a745?style=for-the-badge&logo=freelancer&logoColor=white" alt="Me contrate" />
   </a>
 </p>
 
@@ -46,8 +66,20 @@
 </p>
 
 <p align="center">
-  Estou explorando ferramentas de desenvolvimento visual e produtivo como o FlutterFlow, além de entender melhor o ecossistema de No Code e Low Code. 
-  Meu objetivo é acelerar a entrega de projetos e ter domínio tanto da base de código quanto das plataformas modernas de criação.
+  Explorando ferramentas modernas de desenvolvimento visual para acelerar a entrega de projetos de alta qualidade.
+</p>
+
+---
+
+<h2 align="center">🏨 Projeto em Destaque</h2>
+
+<p align="center">
+  <strong>Hotelfy - Soluções Inteligentes para sua hospedagem</strong><br>
+  Sistema feito com foco em facilitar cobranças, reservas e automações para hotéis e pousadas.
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/omarcojunior/hotelfy">Acesse o repositório do Hotelfy</a>
 </p>
 
 ---
@@ -55,9 +87,9 @@
 <h2 align="center">📈 Atividade no GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarcojunior&theme=2077" alt="Detalhes do perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarcojunior&theme=2077" alt="Estatísticas gerais" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarcojunior&theme=2077&utcOffset=-3" alt="Horários mais produtivos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarcojunior&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarcojunior&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarcojunior&theme=2077&utcOffset=-3" />
 </p>
 
 ---
@@ -67,6 +99,5 @@
 <p align="center">
   <i>"Grandes jornadas começam com um passo. E o seu já começou." 🚀</i>
 </p>
-
 
 
