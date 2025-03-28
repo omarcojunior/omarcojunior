@@ -1,12 +1,14 @@
 <h1 align="center">Seja bem-vindo 👋</h1>
 
-Sou o Marco, estudante de desenvolvimento front-end e apaixonado por tecnologia.  
-Atualmente focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais.  
-Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortalecer minhas habilidades.
+<p align="center">
+  Sou o Marco, estudante de desenvolvimento front-end e apaixonado por tecnologia. <br>
+  Atualmente focado em aprender HTML, CSS e JavaScript para criar interfaces modernas e funcionais. <br>
+  Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortalecer minhas habilidades.
+</p>
 
 ---
 
-### 🌐 Minhas redes 🌐
+<h2 align="center">🌐 Minhas redes</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-silva-junior/">
@@ -25,7 +27,7 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 ---
 
-### 🚀 Minhas Skills 🚀
+<h2 align="center">🚀 Minhas Skills</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -35,7 +37,7 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 ---
 
-### 📊 Atividade no GitHub 📈 
+<h2 align="center">📈 Atividade no GitHub</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarcojunior&theme=2077" alt="Detalhes do perfil" />
@@ -45,9 +47,10 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 
 ---
 
+<h4 align="center">💡 Em constante aprendizado...</h4>
 
----
+<p align="center">
+  <i>"Grandes jornadas começam com um passo. E o seu já começou." 🚀</i>
+</p>
 
-### 💡 Em constante aprendizado...
-> *"Grandes jornadas começam com um passo. E o seu já começou."* 🚀
 
