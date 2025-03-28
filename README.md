@@ -36,11 +36,16 @@ Estou sempre buscando evoluir, estudar e praticar com projetos reais para fortal
 ---
 
 ### 📊 GitHub Stats
+### 📈 Atividade no GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarcojunior&show_icons=true&theme=radical&border_radius=10&count_private=true&hide_title=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=omarcojunior&show_icons=true&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarcojunior&theme=2077" alt="Detalhes do perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarcojunior&theme=2077" alt="Estatísticas gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarcojunior&theme=2077&utcOffset=-3" alt="Horários mais produtivos" />
+</p>
+
+---
+
 
 ---
 
